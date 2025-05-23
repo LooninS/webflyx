@@ -13,13 +13,11 @@
 - Merged feature branches into the main branch using both fast-forward and non-fast-forward merges.
 
 ### 3. Rebasing
-- Applied rebasing techniques to maintain a linear and readable commit history.
-- Gained practical understanding of the differences between `merge` and `rebase`.
+- Used rebase to keep a clean, linear commit history.
+- Understood the difference between `merge` and `rebase`.
 
 ### 4. Reset and Revert
-- Learned to use `git reset` to move HEAD and preserve changes in the working directory.
-- Practiced `git revert` to safely undo changes in the commit history.
-
+- Learned how to reset to a previous commit while keeping changes using `git reset --soft` & `git reset --hard`
 ### 5. Remote Repositories and GitHub
 - Distinguished between local and remote repositories.
 - Pushed commits to and pulled updates from a remote GitHub repository.
@@ -30,5 +28,5 @@
 
 ## Summary
 
-This project provided hands-on experience with Git version control, helping to solidify a practical understanding of industry-standard workflows and best practices for managing source code in individual and collaborative settings.
+This project provided hands-on experience with Git version control, helping to get a practical understanding of best practices for managing source code in individual and team settings.
 
