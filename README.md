@@ -9,24 +9,24 @@
     - Initialized local repositories and practiced basic Git operations.
 
 ### 2. Branching and Merging
-    - Created and managed feature branches to isolate development tasks.
-    - Merged feature branches into the main branch using both fast-forward and non-fast-forward merges.
+- Created and managed feature branches to isolate development tasks.
+- Merged feature branches into the main branch using both fast-forward and non-fast-forward merges.
 
 ### 3. Rebasing
-    - Applied rebasing techniques to maintain a linear and readable commit history.
-    - Gained practical understanding of the differences between `merge` and `rebase`.
+- Applied rebasing techniques to maintain a linear and readable commit history.
+- Gained practical understanding of the differences between `merge` and `rebase`.
 
 ### 4. Reset and Revert
-    - Learned to use `git reset` to move HEAD and preserve changes in the working directory.
-    - Practiced `git revert` to safely undo changes in the commit history.
+- Learned to use `git reset` to move HEAD and preserve changes in the working directory.
+- Practiced `git revert` to safely undo changes in the commit history.
 
 ### 5. Remote Repositories and GitHub
-    - Distinguished between local and remote repositories.
-    - Pushed commits to and pulled updates from a remote GitHub repository.
-    - Created and merged pull requests as part of collaborative development workflows.
+- Distinguished between local and remote repositories.
+- Pushed commits to and pulled updates from a remote GitHub repository.
+- Created and merged pull requests as part of collaborative development workflows.
 
 ### 6. .gitignore Usage
-    - Utilized `.gitignore` to exclude unnecessary or sensitive files from version control.
+- Utilized `.gitignore` to exclude unnecessary or sensitive files from version control.
 
 ## Summary
 
