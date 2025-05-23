@@ -5,8 +5,8 @@
 ## Key Concepts Learned
 
 ### 1. Setup and Configuration
-    - Configured Git with user details and global settings.
-    - Initialized local repositories and practiced basic Git operations.
+- Configured Git with user details and global settings.
+- Initialized local repositories and practiced basic Git operations.
 
 ### 2. Branching and Merging
 - Created and managed feature branches to isolate development tasks.
