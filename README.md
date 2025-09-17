@@ -40,6 +40,7 @@
     - Replays changes from the feature branch onto the main branch starting from the merge base.
     - Creates a new special merge commit with two parent commits.
 <img width="671" height="293" alt="image" src="https://github.com/user-attachments/assets/d4820551-71b4-40a4-be73-12adc565ea33" />
+
 - Fast-forward merges occur if the merge base equals the branch-off point, adding no new commits.
 
 ***
