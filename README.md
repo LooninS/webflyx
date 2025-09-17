@@ -7,6 +7,7 @@
 ### 1. Setup and Configuration
 - Configured Git with user details and global settings.
 - Initialized local repositories and practiced basic Git operations.
+- Also, learned about `git log`, to check the commit history 
 
 ### 2. Branching and Merging
 - Created and managed feature branches to isolate development tasks.
